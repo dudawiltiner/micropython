@@ -2,7 +2,7 @@
 # Boas vindas ao Micropython
 
 <div align="center">
-  <img src="./figures/logos.png"  alt="logos"/>
+  <img src="./Figures/logos.png"  alt="logos"/>
 </div>
 
 ## Introdução
