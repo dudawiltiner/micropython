@@ -7,7 +7,7 @@
 
 ## Introdução
 
-Duas coisas que amo... IoT e programar. Eu sempre gostei de criar projetos de tecnologia, ainda mais com microcontroladores. Esse é um repositório destinado a reservar códigos que podem ser reutilizados para fazer projetos bem legais de IoT ou de apenas de ligar um LED em um circuito alimentado por uma porta USB. 
+Duas coisas que amo... IoT e programar. Eu sempre gostei de criar projetos de tecnologia, ainda mais com microcontroladores. Esse é um repositório destinado a reservar códigos que podem ser reutilizados para fazer projetos bem legais de IoT com microncontoladores ESP + Micropython. 
 
 ### As ferramentas principais utilizadas foram:
 
